@@ -1,2 +1,2 @@
 # Headphones
-Landing Page headphones responsiv
+responsive phone landing page
