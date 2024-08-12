@@ -1,7 +1,9 @@
 # Headphones
 responsive phone landing page
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
+<img width=100% src=""></img>
 # Cabeçalho (Header):
 
 O cabeçalho contém uma barra de navegação fixa no topo da página, com links que levam a diferentes seções da landing page. Ele inclui um logo e um menu de navegação que pode ser aberto e fechado em dispositivos móveis.
@@ -34,3 +36,28 @@ Remix Icon: Biblioteca de ícones que foi integrada ao projeto para adicionar í
 # Propósito da Landing Page:
 
 Esta landing page foi criada com o objetivo de promover e vender diferentes modelos de fones de ouvido, destacando suas principais características e benefícios para os usuários. Ela é projetada para ser visualmente atraente e fácil de navegar, incentivando os visitantes a conhecer mais sobre os produtos e realizar uma compra.
+
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+## 👨‍💻 Tecnologia utilizadas
+
+<p align='center'>
+  <img src='https://img.shields.io/badge/css-blue?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
+   <img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge' />
+</p>
+
+<br/>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ 
+<h3 align='center'> 🌎 Rodando no navegador</h3>
+
+- Você pode clicar no link para ser redirecionado ao site:
+[Phone]()
