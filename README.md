@@ -3,7 +3,7 @@ responsive phone landing page
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Headphones/blob/main/fone.png"></img>
 # Cabeçalho (Header):
 
 O cabeçalho contém uma barra de navegação fixa no topo da página, com links que levam a diferentes seções da landing page. Ele inclui um logo e um menu de navegação que pode ser aberto e fechado em dispositivos móveis.
