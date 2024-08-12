@@ -49,6 +49,7 @@ Esta landing page foi criada com o objetivo de promover e vender diferentes mode
   <img src='https://img.shields.io/badge/css-blue?style=for-the-badge' />
   <img src='https://img.shields.io/badge/html-orange?style=for-the-badge' />
    <img src='https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge' />
+  <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
 </p>
 
 <br/>
@@ -60,4 +61,4 @@ Esta landing page foi criada com o objetivo de promover e vender diferentes mode
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-[Phone]()
+[Phone](https://bredphones.netlify.app/)
